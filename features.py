@@ -1,0 +1,20 @@
+diary=[ "Shruti is your virtual GF, who loves singing.",
+        "\nIn the absence of Groovy and Hydra, she ",
+        "\nis there to fill your void.\U0001F92D\U0001F92D",
+        "\n\nThe updates in the recent patch are as follows : ",
+        "\n\n1.'>p' can now be used instead of '>play', both can be used simultaneously ",
+        "\n2. Direct Song names can be given instead of only Youtube Links",
+        "\n3. Shruti can now flirt with you by using ' >flirt ' ",
+        "\n4. Songs can now be queued(A maximum of 10 is permissible)",
+        "\n5. Speed of loading songs have increased by 5 times",
+        "\n6. '>Ping' has been added for used see their ping from the server",
+        "\n7. '-help' has been added for all the commands at a place",
+        "\n8. Shruti will be now live 24/7 ",
+        "\n9. Special remarks for special people can be now said bu Shruti",
+        "\n10. New Dirty Commands have been added (Shhh...try some dirty words with her by using >)",
+
+        "\n\nVersion          : Beta 0.0.3",
+        "\nGit Repository   : https://github.com/PotatoSmuggler69/Shruti_Music_Bot (will be updated soon)",
+        "\nOfficial Website : www.shrutibot.in (In the making)\n\n",
+      ]
+diary_woven=' '.join(diary)
